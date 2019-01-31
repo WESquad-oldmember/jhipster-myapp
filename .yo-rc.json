@@ -1,0 +1,38 @@
+{
+    "generator-jhipster": {
+        "promptValues": {
+            "packageName": "com.wemanity.myapp",
+            "nativeLanguage": "fr"
+        },
+        "jhipsterVersion": "5.8.1",
+        "applicationType": "monolith",
+        "baseName": "myApp",
+        "packageName": "com.wemanity.myapp",
+        "packageFolder": "com/wemanity/myapp",
+        "serverPort": "8080",
+        "authenticationType": "jwt",
+        "cacheProvider": "ehcache",
+        "enableHibernateCache": true,
+        "websocket": "spring-websocket",
+        "databaseType": "sql",
+        "devDatabaseType": "mysql",
+        "prodDatabaseType": "mysql",
+        "searchEngine": "elasticsearch",
+        "messageBroker": false,
+        "serviceDiscoveryType": "eureka",
+        "buildTool": "maven",
+        "enableSwaggerCodegen": false,
+        "jwtSecretKey": "OGUyNWRkZmI2NTdkMGM0ODZhZDUzMzkwNjRhYzdkNTE0M2EzNWIyYjVkNzg5NGQ0NTVhZTgxNGY5OWNlZTU5ZTZjNTg2OTM0NzBlNjY4N2NkZTZhOThiNzhjMDY4ZGJmMjlhZTNkMmMyYWQ0NzJmOGFmNDQzZTI2NDY0NzI0OTc=",
+        "clientFramework": "angularX",
+        "useSass": true,
+        "clientPackageManager": "npm",
+        "testFrameworks": ["cucumber"],
+        "jhiPrefix": "jhi",
+        "entitySuffix": "",
+        "dtoSuffix": "DTO",
+        "otherModules": [],
+        "enableTranslation": true,
+        "nativeLanguage": "fr",
+        "languages": ["fr"]
+    }
+}
